@@ -1,0 +1,37 @@
+[
+	{
+		"id" : 1,
+		"textQuestion" : "Начать учить Java?",
+		"answerId" : [1,2]
+	},
+	{
+		"id" : 2,
+		"textQuestion" : "Вам сложно дается задача",
+		"answerId" : [3, 4]
+	},
+	{
+		"id" : 3,
+		"textQuestion" : "Вы нашли сервис JavaRush",
+		"answerId" : [5, 6]
+	},
+	{
+		"id" : 4,
+		"textQuestion" : "Вы немного отдохнули",
+		"answerId" : [7, 8]
+	},
+	{
+		"id" : 5,
+		"textQuestion" : "Вы успешно закончили обучение",
+		"answerId" : [9, 10]
+	},
+	{
+		"id" : 6,
+		"textQuestion" : "Проигрыш",
+		"answerId" : []
+	},
+	{
+		"id" : 7,
+		"textQuestion" : "Выигрыш",
+		"answerId" : []
+	}
+]

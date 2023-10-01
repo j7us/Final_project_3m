@@ -1,0 +1,52 @@
+[
+	{
+		"id" : 1,
+		"textAnswer" : "Да",
+		"questionId" : 2
+	},
+	{
+		"id" : 2,
+		"textAnswer" : "Нет",
+		"questionId" : 6
+	},
+	{
+		"id" : 3,
+		"textAnswer" : "Посидеть еще",
+		"questionId" : 3
+	},
+	{
+		"id" : 4,
+		"textAnswer" : "Сдаться",
+		"questionId" : 4
+	},
+	{
+		"id" : 5,
+		"textAnswer" : "Купить подписку и обучаться",
+		"questionId" : 5
+	},
+	{
+		"id" : 6,
+		"textAnswer" : "Закрыть сайт",
+		"questionId" : 6
+	},
+	{
+		"id" : 7,
+		"textAnswer" : "Попытаться еще",
+		"questionId" : 3
+	},
+	{
+		"id" : 8,
+		"textAnswer" : "Закончить",
+		"questionId" : 6
+	},
+	{
+		"id" : 9,
+		"textAnswer" : "Пойти на стажировку",
+		"questionId" : 7
+	},
+	{
+		"id" : 2,
+		"textAnswer" : "Закончить",
+		"questionId" : 6
+	}
+]
