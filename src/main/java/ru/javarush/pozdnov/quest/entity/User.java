@@ -1,4 +1,4 @@
-package ru.javarush.pozdnov.quest.Entity;
+package ru.javarush.pozdnov.quest.entity;
 
 public class User {
     private String name;

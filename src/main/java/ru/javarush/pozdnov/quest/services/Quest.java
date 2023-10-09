@@ -1,9 +1,9 @@
-package ru.javarush.pozdnov.quest.Services;
+package ru.javarush.pozdnov.quest.services;
 
-import ru.javarush.pozdnov.quest.Entity.Answer;
-import ru.javarush.pozdnov.quest.Entity.Question;
-import ru.javarush.pozdnov.quest.Repository.AnswerRepository;
-import ru.javarush.pozdnov.quest.Repository.QuestionRepository;
+import ru.javarush.pozdnov.quest.entity.Answer;
+import ru.javarush.pozdnov.quest.entity.Question;
+import ru.javarush.pozdnov.quest.repository.AnswerRepository;
+import ru.javarush.pozdnov.quest.repository.QuestionRepository;
 
 import java.util.ArrayList;
 import java.util.Arrays;

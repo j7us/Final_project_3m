@@ -1,7 +1,7 @@
-package ru.javarush.pozdnov.quest.Repository;
+package ru.javarush.pozdnov.quest.repository;
 
 import org.junit.jupiter.api.Test;
-import ru.javarush.pozdnov.quest.Repository.QuestionRepository;
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class QuestionRepositoryTest {

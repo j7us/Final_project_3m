@@ -1,4 +1,4 @@
-package ru.javarush.pozdnov.quest.Controller;
+package ru.javarush.pozdnov.quest.controller;
 
 import jakarta.servlet.RequestDispatcher;
 import jakarta.servlet.http.HttpServletRequest;
@@ -9,9 +9,8 @@ import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.Mockito;
 import org.mockito.junit.jupiter.MockitoExtension;
-import ru.javarush.pozdnov.quest.Controller.UserAndQuestServlet;
-import ru.javarush.pozdnov.quest.Entity.User;
-import ru.javarush.pozdnov.quest.Services.Quest;
+import ru.javarush.pozdnov.quest.entity.User;
+import ru.javarush.pozdnov.quest.services.Quest;
 
 import static org.mockito.ArgumentMatchers.*;
 import static org.mockito.internal.verification.VerificationModeFactory.times;

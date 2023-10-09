@@ -1,9 +1,7 @@
-package ru.javarush.pozdnov.quest.Services;
+package ru.javarush.pozdnov.quest.services;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import ru.javarush.pozdnov.quest.Entity.Answer;
-import ru.javarush.pozdnov.quest.Services.Quest;
 
 import java.util.ArrayList;
 import java.util.List;

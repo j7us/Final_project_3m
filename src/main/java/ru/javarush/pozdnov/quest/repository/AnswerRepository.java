@@ -1,7 +1,7 @@
-package ru.javarush.pozdnov.quest.Repository;
+package ru.javarush.pozdnov.quest.repository;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import ru.javarush.pozdnov.quest.Entity.Answer;
+import ru.javarush.pozdnov.quest.entity.Answer;
 
 import java.io.*;
 import java.util.Arrays;

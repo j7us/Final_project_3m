@@ -1,6 +1,6 @@
-package ru.javarush.pozdnov.quest.Repository;
+package ru.javarush.pozdnov.quest.repository;
 
-import ru.javarush.pozdnov.quest.Entity.Question;
+import ru.javarush.pozdnov.quest.entity.Question;
 
 import java.io.BufferedReader;
 import java.io.IOException;

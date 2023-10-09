@@ -1,14 +1,12 @@
-package ru.javarush.pozdnov.quest.Controller;
+package ru.javarush.pozdnov.quest.controller;
 
 import jakarta.servlet.*;
 import jakarta.servlet.http.*;
 import jakarta.servlet.annotation.*;
-import ru.javarush.pozdnov.quest.Entity.User;
-import ru.javarush.pozdnov.quest.Repository.AnswerRepository;
-import ru.javarush.pozdnov.quest.Services.Quest;
+import ru.javarush.pozdnov.quest.entity.User;
+import ru.javarush.pozdnov.quest.services.Quest;
 
 import java.io.IOException;
-import java.io.InputStream;
 
 @WebServlet(name = "UserAndQuestServlet", value = "/userAndQuestServlet")
 public class UserAndQuestServlet extends HttpServlet {

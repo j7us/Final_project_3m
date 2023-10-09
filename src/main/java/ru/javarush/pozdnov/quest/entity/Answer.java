@@ -1,6 +1,4 @@
-package ru.javarush.pozdnov.quest.Entity;
-
-import java.util.List;
+package ru.javarush.pozdnov.quest.entity;
 
 public class Answer {
     private int id;

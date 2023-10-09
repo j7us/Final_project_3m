@@ -1,18 +1,16 @@
-package ru.javarush.pozdnov.quest.Controller;
+package ru.javarush.pozdnov.quest.controller;
 
 import jakarta.servlet.RequestDispatcher;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 import jakarta.servlet.http.HttpSession;
-import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.ValueSource;
 import org.mockito.ArgumentCaptor;
-import org.mockito.Mock;
 import org.mockito.Mockito;
-import ru.javarush.pozdnov.quest.Services.Quest;
+import ru.javarush.pozdnov.quest.services.Quest;
 
 import java.util.ArrayList;
 import java.util.List;
